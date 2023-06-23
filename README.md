@@ -1,4 +1,4 @@
-![logo](https://github.com/youtanimstar/youtanimstar/blob/main/Github%20Banner.png)
+![logo](https://github.com/youtanimstar/youtanimstar/blob/main/github_banner.png)
 
 <h1 align="center">Hi 👋, I'm Deep Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
