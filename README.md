@@ -117,18 +117,12 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=youtanimstar&show_icons=true&locale=en&layout=compact"
-    alt="youtanimstar"
-  />
-</p>
+
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=youtanimstar&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=youtanimstar&show_icons=true&theme=github_dark"
     alt="youtanimstar"
   />
 </p>
