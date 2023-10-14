@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deep Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding image" align="right" width="400">
+<img src="https://github.com/youtanimstar/youtanimstar/blob/main/typical_emacs_user.gif" alt="coding image" align="right" width="400">
 
 <p align="left">
   <img
